@@ -36,7 +36,7 @@ I've saved some projects here that were done by me.
 
 ### Python
 I've done these works to train my __*Python*__ and __*Data Analysis*__ skills. \
-This file contains:
+This path contains:
 * *A Visual History of Nobel Prize Winners;*
 * *Disney Movies and Box Office Success;*
 * *Dr. Semmelweis and the Discovery of Handwashing;*

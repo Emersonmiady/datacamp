@@ -43,8 +43,8 @@ This file contains:
 * Exploring 67 years of LEGO;
 * Exploring the Evolution of Linux;
 * Predicting Credit Card Approvals;
-* TV, Halftime Shows, and the Big Game;
 * The Android App Market on Google Play;
-* The GitHub History of the Scala Language.
+* The GitHub History of the Scala Language;
+* TV, Halftime Shows, and the Big Game.
 
 Observation: I recommend using the [nbviewer](https://nbviewer.jupyter.org/) to visualize the .ipynb archives.

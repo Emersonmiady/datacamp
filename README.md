@@ -3,7 +3,7 @@ I'm very thankful to my company __*ICMC Júnior*__, that has distributed the __*
 So, this repository contains some files from the learning platform. I've used these to improve my knowledge about Data Science. :) 
 
 ## Carrer Tracks
-I really have loved the way that DataCamp teaches in __*Carrer Tracks*__, because it make an objective path to follow, with a lot of courses!
+I really have loved the way that DataCamp teaches in __*Carrer Tracks*__, because it makes an objective path to follow, with a lot of courses!
 
 ### Data Scientist with Python
 I've put all the slides of the courses here, including:

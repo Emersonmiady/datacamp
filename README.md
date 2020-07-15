@@ -1,6 +1,6 @@
 # DataCamp
 I'm very thankful to my company __*ICMC Júnior*__, that has distributed the __*DataCamp*__ platform to its workers! \
-So, this repository contains some files from the learning platform. I've used these to improve my knowledge about Data Science. :) 
+So, this repository contains some files from the learning platform. I've used these to improve my knowledge about Data Science :) 
 
 ## Carrer Tracks
 I really have loved the way that DataCamp teaches in __*Carrer Tracks*__, because it makes an objective path to follow, with a lot of courses!

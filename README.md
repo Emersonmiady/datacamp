@@ -47,4 +47,4 @@ This path contains:
 * *The GitHub History of the Scala Language;*
 * *TV, Halftime Shows, and the Big Game.*
 
-Observation: I recommend using the [nbviewer](https://nbviewer.jupyter.org/) to visualize the .ipynb archives.
+Observation: I recommend using the [nbviewer](https://nbviewer.jupyter.org/) to visualize the .ipynb files.

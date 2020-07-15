@@ -6,7 +6,7 @@ So, this repository contains some files from the learning platform. I've used th
 I really have loved the way that DataCamp teaches in __*Carrer Tracks*__, because it make an objective path to follow, with a lot of courses!
 
 ### Data Scientist with Python
-I put all the slides of the courses here, including:
+I've put all the slides of the courses here, including:
 01. Introduction to Python;
 02. Intermediate Python;
 03. Data Manipulation with Pandas;
@@ -32,10 +32,10 @@ I put all the slides of the courses here, including:
 23. Cluster Analysis in Python.
 
 ## Projects
-I have saved some projects here that were done by me. 
+I've saved some projects here that were done by me. 
 
 ### Python
-I did these works to train my __*Python*__ and __*Data Analysis*__ skills. \
+I've done these works to train my __*Python*__ and __*Data Analysis*__ skills. \
 This file contains:
 * A Visual History of Nobel Prize Winners;
 * Disney Movies and Box Office Success;

@@ -6,7 +6,7 @@ So, this repository contains some files from the learning platform. I've used th
 I really have loved the way that DataCamp teaches in __*Carrer Tracks*__, because it makes an objective path to follow, with a lot of courses!
 
 ### Data Scientist with Python
-I've put all the slides of the courses here, including:
+I've put all the slides and certificates of the courses here, including:
 01. *Introduction to Python;*
 02. *Intermediate Python;*
 03. *Data Manipulation with Pandas;*

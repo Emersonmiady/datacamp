@@ -31,6 +31,25 @@ I've put all the slides and certificates of the courses here, including:
 22. *Case Study: School Budgeting with Machine Learning in Python;*
 23. *Cluster Analysis in Python.*
 
+## Other courses
+I've done some courses outside of Carrer Tracks, some important knowledge too!
+
+As well as upside, i put the slides and certificates of them.
+
+### Python
+* *Introduction to Deep Learning in Python.*
+
+### R
+* *Introduction to R;*
+* *Intermediate R;*
+* *Introduction to the Tidyverse;*
+* *Introduction to Importing Data in R.*
+
+### SQL
+* *Introduction to SQL;*
+* *Introduction to Relational Databases in SQL;*
+* *Joining Data in SQL.*
+
 ## Projects
 I've saved some projects here that were done by me. 
 
